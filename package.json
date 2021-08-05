@@ -1,0 +1,21 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Curso da Alura, sobre POO com JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardTeixeira/javascript-poo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardTeixeira/javascript-poo/issues"
+  },
+  "homepage": "https://github.com/EduardTeixeira/javascript-poo#readme",
+  "type": "module"
+}
