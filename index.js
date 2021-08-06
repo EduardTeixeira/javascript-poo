@@ -20,12 +20,14 @@ const conta2 = new ContaCorrente();
 conta2.agencia = 4567;
 conta2.cliente = client2;
 
+client2.rg = 1111111;
+
 
 
 conta1.depositar(1000.33);
 
 conta1.transferir(250, conta2);
 
-console.log(conta1, conta1.verSaldo());
+console.log(conta1, conta1.verSaldo(), conta1.cliente);
 
-console.log(conta2, conta2.verSaldo());
+console.log(conta2, conta2.verSaldo(), conta2.cliente);
