@@ -5,7 +5,6 @@ import { ContaCorrente } from './Conta/ContaCorrente.js';
 import { ContaPoupanca } from './Conta/ContaPoupanca.js';
 import { ContaSalario } from './Conta/ContaSalario.js';
 
-import { Funcionario } from './Funcionario/Funcionario.js';
 import { Diretor } from './Funcionario/Diretor.js';
 import { Gerente } from './Funcionario/Gerente.js';
 import { SistemaAutenticacao } from './SistemaAutenticacao.js';
